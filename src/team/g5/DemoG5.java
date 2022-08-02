@@ -16,5 +16,7 @@ public class DemoG5 {
 	}
 	public static void getName(String name){
 		System.out.println("Aymn");
+		System.out.println("G5");
+		
 }
 }
