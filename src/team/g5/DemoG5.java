@@ -10,4 +10,8 @@ public class DemoG5 {
 		
 		System.out.println("Charlene Parker");
 	}
+	
+	public static void subtract(int a, int b) {
+		System.out.println(a - b);
+	}
 }
