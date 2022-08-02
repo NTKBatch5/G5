@@ -19,4 +19,8 @@ public class DemoG5 {
 		System.out.println("G5");
 		
 }
+	public static void multiply(int a, int b){
+		System.out.println(a*b);
+	}
 }
+
