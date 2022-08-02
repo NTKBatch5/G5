@@ -31,7 +31,7 @@ public class DemoG5 {
 // Aymn
 		// good Job everyone we need moor practice !!!!!
 		public static void addNum (int a,int b){
-			System.out.println(a+b)
+			System.out.println(a+b);
 			}
 	
 }
