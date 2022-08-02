@@ -17,3 +17,4 @@ public class DemoG5 {
 	public static void getName(String name){
 		System.out.println("Aymn");
 }
+}
