@@ -14,4 +14,6 @@ public class DemoG5 {
 	public static void subtract(int a, int b) {
 		System.out.println(a - b);
 	}
+	public static void getName(String name){
+		System.out.println("Aymn");
 }
