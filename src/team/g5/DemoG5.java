@@ -17,7 +17,7 @@ public class DemoG5 {
 	public static void getName(String name){
 		System.out.println("Aymn");
 		System.out.println("G5");
-		
+		// GitHub first
 }
 	public static void multiply(int a, int b){
 		System.out.println(a*b);
