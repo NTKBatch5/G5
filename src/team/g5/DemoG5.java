@@ -34,7 +34,7 @@ public class DemoG5 {
 		}
 		}
 
-// Wikly	test
+// Wikly	test123
 	public static void subtract(int a, int b) {
 		System.out.println(a - b);
 		System.out.println("subtract");
