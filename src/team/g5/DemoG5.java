@@ -3,6 +3,10 @@ package team.g5;
 public class DemoG5 {
 	public static void main(String[] args) {
 		System.out.println("Test");
+		
+		System.out.println("G1 is the BEST.....in their DREAMS");
+		System.out.println("G5 all the WAY");
+
 	}
 
 // Stephen
