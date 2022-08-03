@@ -6,7 +6,7 @@ public class DemoG5 {
 		
 		System.out.println("G1 is the BEST.....in their DREAMS");
 		System.out.println("G5 all the WAY");
-		
+		System.out.println("G5 all the WAY");
 		firstNonRepeat("AaBbCDdE");
 
 	}
@@ -68,7 +68,17 @@ class Demo1 extends DemoG5 {
 	public void getInfo(String a) {
 
 		System.out.println("GIT HUBs");
-	 
+	 //Trying for an error
+		
+		
+		System.out.println("GIT HUBs");
+	 //Trying for an error
+		
+		
+		System.out.println("GIT HUBs");
+	 //Trying for an error
+		
+		System.out.println("testinggg.......");
 		
 	}
 
