@@ -59,7 +59,7 @@ class Demo1 extends DemoG5 {
 	public void getNumber(int a) {
 	}
 
-	public void getInfo(String a, String b) {
+	public void getInfo(String a) {
 
 		System.out.println("GIT HUBs");
 	 
