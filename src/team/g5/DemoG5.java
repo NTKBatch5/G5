@@ -18,6 +18,12 @@ public class DemoG5 {
 		System.out.println("Charlene Parker");
 	}
 	
+	public static void add(int b, long a) {
+		System.out.println(a+b);
+// Charlene
+		System.out.println("Charlene Parker");
+	}
+	
 	public static void firstNonRepeat(String str){
 		str.toLowerCase();
 		for(char i : str.toCharArray()) {
