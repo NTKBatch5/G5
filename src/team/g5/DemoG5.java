@@ -83,5 +83,10 @@ class Demo1 extends DemoG5 {
 		System.out.println("testinggg.......");
 		
 	}
+	
+	public static void getName(String name){
+		System.out.println("sameer");
+		System.out.println("G5");
+	}
 
 }
