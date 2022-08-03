@@ -7,7 +7,7 @@ public class DemoG5 {
 		System.out.println("G1 is the BEST.....in their DREAMS");
 		System.out.println("G5 all the WAY");
 		
-		System.out.println(firstNonRepeat("AaBbCDdE"));
+		firstNonRepeat("AaBbCDdE");
 
 	}
 
@@ -18,12 +18,14 @@ public class DemoG5 {
 		System.out.println("Charlene Parker");
 	}
 	
-	public void firstNonRepeat(String str){
+	public static void firstNonRepeat(String str){
 		str.toLowerCase();
 		for(char i : str.toCharArray()) {
 		if(str.indexOf(i)==str.lastIndexOf(i));
 		System.out.println("i");
 		break;
+		}
+		}
 
 // Wikly	
 	public static void subtract(int a, int b) {
