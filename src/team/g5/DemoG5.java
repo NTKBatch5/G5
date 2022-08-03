@@ -16,6 +16,6 @@ public class DemoG5 {
 	}
 	
 	public static void GitHub(String name) {
-		System.out.println("Hello G5!");
+		System.out.println("Hello Everyone in G5!");
 	}
 }
