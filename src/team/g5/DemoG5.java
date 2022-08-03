@@ -6,7 +6,7 @@ public class DemoG5 {
 		
 		System.out.println("G1 is the BEST.....in their DREAMS");
 		System.out.println("G5 all the WAY");
-		
+		System.out.println("G5 all the WAY");
 		firstNonRepeat("AaBbCDdE");
 
 	}
