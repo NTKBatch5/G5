@@ -43,5 +43,10 @@ public class DemoG5 {
 	public static void GitHub(String name) {
 		System.out.println("Hello Everyone in G5!");
 	}
+	
+	public static void getName(String name){
+		System.out.println("sameer");
+		System.out.println("G5");
+	}
 
 }
