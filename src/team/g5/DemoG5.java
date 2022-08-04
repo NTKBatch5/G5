@@ -7,8 +7,13 @@ public class DemoG5 {
 		System.out.println("G1 is the BEST.....in their DREAMS");
 		System.out.println("G5 all the WAY");
 		System.out.println("G5 all the WAY");
+		System.out.println("all the way");
 		firstNonRepeat("AaBbCDdE");
 
+	}
+	
+	public static void nameNot(String str) {
+		System.out.println(str);
 	}
 
 // Stephen
@@ -25,10 +30,9 @@ public class DemoG5 {
 	}
 	
 
-// Wikly	
+// Wikly	test123
 	public static void subtract(int a, int b) {
 		System.out.println(a - b);
-
 		System.out.println("subtract");
 	}
 
@@ -82,68 +86,6 @@ class Demo1 extends DemoG5 {
 	public static void getName(String name){
 		System.out.println("sameer");
 		System.out.println("G5");
-
 	}
 
-// Aymn
-	public static void getName(String name){
-		System.out.println("Aymn");
-		System.out.println("G5");
-		// GitHub first
-}
-// Fatima
-	public static void multiply(int a, int b){
-		System.out.println(a*b);
-	}
-
-// Mili
-		public static void sub(int a,int b) {
-			System.out.println(a/b);
-		}
-// Aymn
-		// good Job everyone we need moor practice !!!!!
-		public static void addNum (int a,int b){
-			System.out.println(a+b);
-			}
-	public static boolean checkpalindrome(String str) {
-		
-		boolean result = false;
-		
-		String reverseString="";
-		
-		char [] strArray = str.toLowerCase().toCharArray();
-		
-		for(int i = strArray.length-1; i>=0;i--) {
-			reverseString  = reverseString + strArray[i];
-		}
-		if(reverseString.equals(str)) {
-			result = true;
-		}
-		System.out.println("testinggg.......");
-		return result;
-	}
-
-}
-
-class Demo1 extends DemoG5 {
-	public void getNumber(int a) {
-	}
-
-	public void getInfo(String a) {
-
-		System.out.println("GIT HUBs");
-	 //Trying for an error
-		
-		
-		System.out.println("GIT HUBs");
-	 //Trying for an error
-		
-		
-		System.out.println("GIT HUBs");
-	 //Trying for an error
-		
-		System.out.println("testinggg.......");
-		
-	}
- 
 }
