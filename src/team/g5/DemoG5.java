@@ -90,7 +90,7 @@ class Demo1 extends DemoG5 {
 
 
 // Aymn
-	public static void getName(String name){
+	public static void name(String name){
 		System.out.println("Aymn");
 		System.out.println("G5");
 		// GitHub first
@@ -154,5 +154,30 @@ class Demo17 extends DemoG5 {
 	 System.out.println("*******************************************************");
 	 System.out.println("*******************************************************");
  }
+public void getNumber1(int a) {
+	System.out.println(" ");
+	
+	
+}
+public void getNumber1(int a) {
+	System.out.println(" ");
+	
+	
+}
+public void getNumber1(int a) {
+	System.out.println(" ");
+	
+	
+}
+public void getNumber1(int a) {
+	System.out.println(" ");
+	
+	
+}
+public void getNumber1(int a) {
+	System.out.println(" ");
+	
+	
+}
 
 }
