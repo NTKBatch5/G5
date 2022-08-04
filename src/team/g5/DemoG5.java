@@ -31,7 +31,7 @@ public class DemoG5 {
 		System.out.println(a - b);
 		System.out.println("subtract");
 	}
-<<<<<<< HEAD
+
 
 // Aymn
 	public static void getName(String name){
