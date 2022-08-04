@@ -26,11 +26,12 @@ public class DemoG5 {
 	}
 	
 
-// Wikly	
+// Wikly	test123
 	public static void subtract(int a, int b) {
 		System.out.println(a - b);
 		System.out.println("subtract");
 	}
+<<<<<<< HEAD
 
 // Aymn
 	public static void getName(String name){
@@ -73,23 +74,12 @@ public class DemoG5 {
 
 class Demo1 extends DemoG5 {
 	public void getNumber(int a) {
+
 	}
-
-	public void getInfo(String a, String b) {
-
-		System.out.println("GIT HUBs");
-	 //Trying for an error
-		
-		
-		System.out.println("GIT HUBs");
-	 //Trying for an error
-		
-		
-		System.out.println("GIT HUBs");
-	 //Trying for an error
-		
-		System.out.println("testinggg.......");
-		
+	
+	public static void getName(String name){
+		System.out.println("sameer");
+		System.out.println("G5");
 	}
 
 }
