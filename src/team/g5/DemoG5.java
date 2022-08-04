@@ -42,7 +42,10 @@ public class DemoG5 {
 	public static void multiply(int a, int b){
 		System.out.println(a*b);
 	}
-
+	
+	public static void GitHub(String name) {
+		System.out.println("Hello Everyone in G5!");
+	}
 // Mili
 		public static void sub(int a,int b) {
 			System.out.println(a/b);
