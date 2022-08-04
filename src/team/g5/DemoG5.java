@@ -134,7 +134,7 @@ class Demo1 extends DemoG5 {
 	}
 	//Add a new class
  public static void divide(int a, int b) {
-	 System.out.println(a/b)
+	 System.out.println(a/b);
  }
 
 }
