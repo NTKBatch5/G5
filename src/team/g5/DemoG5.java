@@ -105,7 +105,24 @@ class Demo1 extends DemoG5 {
 		public static void addNum (int a,int b){
 			System.out.println(a+b);
 			}
-	
+	public static boolean checkpalindrome(String str) {
+		
+		boolean result = false;
+		
+		String reverseString="";
+		
+		char [] strArray = str.toLowerCase().toCharArray();
+		
+		for(int i = strArray.length-1; i>=0;i--) {
+			reverseString  = reverseString + strArray[i];
+		}
+		if(reverseString.equals(str)) {
+			result = true;
+		}
+		
+		return result;
+	}
+
 }
 
 class Demo1 extends DemoG5 {
