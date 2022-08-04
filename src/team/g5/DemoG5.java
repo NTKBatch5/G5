@@ -25,14 +25,6 @@ public class DemoG5 {
 		System.out.println("Charlene Parker");
 	}
 	
-	public static void firstNonRepeat(String str){
-		str.toLowerCase();
-		for(char i : str.toCharArray()) {
-		if(str.indexOf(i)==str.lastIndexOf(i));
-		System.out.println("i");
-		break;
-		}
-		}
 
 // Wikly	
 	public static void subtract(int a, int b) {
@@ -60,7 +52,23 @@ public class DemoG5 {
 		public static void addNum (int a,int b){
 			System.out.println(a+b);
 			}
-	
+		public static void firstNonRepeat(String str){
+			str.toLowerCase();
+			for(char i : str.toCharArray()) {
+			if(str.indexOf(i)==str.lastIndexOf(i));
+			System.out.println("i");
+			break;
+			}
+			}
+		
+		public static void NonRepeat(String str){
+			str.toLowerCase();
+			for(char i : str.toCharArray()) {
+			if(str.indexOf(i)==str.lastIndexOf(i));
+			System.out.println("i");
+			break;
+			}
+			}
 }
 
 class Demo1 extends DemoG5 {
