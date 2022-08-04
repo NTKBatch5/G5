@@ -7,8 +7,13 @@ public class DemoG5 {
 		System.out.println("G1 is the BEST.....in their DREAMS");
 		System.out.println("G5 all the WAY");
 		System.out.println("G5 all the WAY");
+		System.out.println("all the way");
 		firstNonRepeat("AaBbCDdE");
 
+	}
+	
+	public static void nameNot(String str) {
+		System.out.println(str);
 	}
 
 // Stephen
@@ -25,10 +30,9 @@ public class DemoG5 {
 	}
 	
 
-// Wikly	
+// Wikly	test123
 	public static void subtract(int a, int b) {
 		System.out.println(a - b);
-
 		System.out.println("subtract");
 	}
 
@@ -82,8 +86,8 @@ class Demo1 extends DemoG5 {
 	public static void getName(String name){
 		System.out.println("sameer");
 		System.out.println("G5");
-
 	}
+
 
 // Aymn
 	public static void getName(String name){
@@ -132,4 +136,5 @@ class Demo1 extends DemoG5 {
  public static void divide(int a, int b) {
 	 System.out.println(a/b)
  }
+
 }
