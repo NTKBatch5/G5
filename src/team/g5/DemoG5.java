@@ -24,18 +24,65 @@ public class DemoG5 {
 		System.out.println("Charlene Parker");
 	}
 	
-	public static void firstNonRepeat(String str){
-		str.toLowerCase();
-		for(char i : str.toCharArray()) {
-		if(str.indexOf(i)==str.lastIndexOf(i));
-		System.out.println("i");
-		break;
-		}
-		}
 
 // Wikly	
 	public static void subtract(int a, int b) {
 		System.out.println(a - b);
+
+		System.out.println("subtract");
+	}
+
+// Aymn
+	public static void getName(String name){
+		System.out.println("Aymn");
+		System.out.println("G5");
+		// GitHub first
+}
+// Fatima
+	public static void multiply(int a, int b){
+		System.out.println(a*b);
+	}
+	
+	public static void GitHub(String name) {
+		System.out.println("Hello Everyone in G5!");
+	}
+// Mili
+		public static void sub(int a,int b) {
+			System.out.println(a/b);
+		}
+// Aymn
+		// good Job everyone we need moor practice !!!!!
+		public static void addNum (int a,int b){
+			System.out.println(a+b);
+			}
+		public static void firstNonRepeat(String str){
+			str.toLowerCase();
+			for(char i : str.toCharArray()) {
+			if(str.indexOf(i)==str.lastIndexOf(i));
+			System.out.println("i");
+			break;
+			}
+			}
+		
+		public static void NonRepeat(String str){
+			str.toLowerCase();
+			for(char i : str.toCharArray()) {
+			if(str.indexOf(i)==str.lastIndexOf(i));
+			System.out.println("i");
+			break;
+			}
+			}
+}
+
+class Demo1 extends DemoG5 {
+	public void getNumber(int a) {
+
+	}
+	
+	public static void getName(String name){
+		System.out.println("sameer");
+		System.out.println("G5");
+
 	}
 
 // Aymn
