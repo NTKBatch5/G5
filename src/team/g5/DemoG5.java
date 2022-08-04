@@ -136,5 +136,9 @@ class Demo17 extends DemoG5 {
  public static void divide(int a, int b) {
 	 System.out.println(a/b);
  }
+ 
+ 	public static void teamName(String a) {
+ 		System.out.println("G5!!!!!!");
+ 	}
 
 }
