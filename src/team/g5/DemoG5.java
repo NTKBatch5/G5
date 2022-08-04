@@ -90,7 +90,7 @@ class Demo1 extends DemoG5 {
 
 
 // Aymn
-	public static void name(String name){
+	public static void getName(String name){
 		System.out.println("Aymn");
 		System.out.println("G5");
 		// GitHub first
@@ -140,5 +140,19 @@ class Demo17 extends DemoG5 {
  	public static void teamName(String a) {
  		System.out.println("G5!!!!!!");
  	}
+ 
+ public static void FunName(String m) {
+	 System.out.println("*******************************************************");
+	 System.out.println("*******************************************************");
+	 System.out.println("*********************       *************        ******");
+	 System.out.println("******************   ********************  ************");
+	 System.out.println("******************   ********************  ************");
+	 System.out.println("******************   *****      *********  ************");
+	 System.out.println("******************   *******  *************       *****");
+	 System.out.println("******************   *******  ******************  *****");
+	 System.out.println("*********************       *************         *****");
+	 System.out.println("*******************************************************");
+	 System.out.println("*******************************************************");
+ }
 
 }
